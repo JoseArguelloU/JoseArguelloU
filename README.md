@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JoseArguelloU
+- 👀 I’m interested in Full Stack Development
+- 🌱 I’m currently learning Kentico Xperience
+- 💞️ I’m looking to collaborate on Rise Interactive
+- 📫 How to reach me jose.arguello@riseinteractive.com
